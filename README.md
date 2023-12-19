@@ -10,7 +10,7 @@
 
 |메인 페이지|선수정보 페이지|
 |:---:|:---:|
-|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/홈화면.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/선수정보 페이지.png"/>|
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/홈 화면.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/선수정보 페이지.png"/>|
 
 |구단 정보 페이지|구단 정보|
 |:---:|:---:|
