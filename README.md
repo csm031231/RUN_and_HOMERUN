@@ -18,7 +18,7 @@
 
 |뉴스|스토어|
 |:---:|:---:|
-|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/뉴스 페이지.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/스토어.png"/>|
+|<img width="400" height="600" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/뉴스 페이지.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/스토어.png"/>|
 
 #### ✨결제 내역에 결제 완료 창을 띄운다.(xml사용)
 
