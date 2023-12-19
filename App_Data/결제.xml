@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<guestbook>
+  <guest name="김철수" id="abcd1234" price="151000" adress="충청북도 충주시" date="2023-12-14 오전 10:09:17" />
+  <guest name="최수민" id="Ad121212" price="178000" adress="부산광역시" date="2023-12-19 오후 6:24:41" />
+</guestbook>

@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 82%;
+            height: 1516px;
+        }
+        .auto-style2 {
+            height: 56px;
+        }
+        .auto-style3 {
+            height: 94px;
+            width: 100px;
+            background-color: #E0FECD;
+        }
+        .auto-style4 {
+            height: 1455px;
+        }
+    </style>
+</head>
+<body style="height: 1787px; margin-top: 5px; width: 1535px; margin-right: 275px;">
+    <form id="form1" runat="server">
+    <div>
+                    <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/이미지/로고.png" style="z-index: 1; left: 12px; top: 3px; position: absolute; width: 499px; right: 1000px; height: 83px;" OnClick="ImageButton1_Click" PostBackUrl="~/home.aspx" />
+        <br />
+    </div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" colspan="5">
+                    <asp:Label ID="Label1" runat="server" style="z-index: 1; left: 1142px; top: 48px; position: absolute; right: 166px" Text="/"></asp:Label>
+                    <asp:LinkButton ID="LinkButton2" runat="server" PostBackUrl="~/Sign up/회원가입.aspx" style="z-index: 1; left: 1168px; top: 46px; position: absolute">회원가입</asp:LinkButton>
+                    <asp:LinkButton ID="LinkButton4" runat="server" PostBackUrl="~/Sign in/로그인.aspx" style="z-index: 1; top: 45px; position: absolute; left: 1049px">로그인</asp:LinkButton>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+                    <asp:Menu ID="Menu1" runat="server" Font-Names="나눔고딕 ExtraBold">
+                        <Items>
+                            <asp:MenuItem Text="정보" Value="정보">
+                                <asp:MenuItem Text="선수 정보" Value="선수 정보" NavigateUrl="~/Infomation/선수정보.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="구단 정보" Value="구단 정보" NavigateUrl="~/Infomation/구단정보.aspx"></asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+                <td class="auto-style3">
+                    <asp:Menu ID="Menu2" runat="server" Font-Names="나눔고딕 ExtraBold">
+                        <Items>
+                            <asp:MenuItem Text="일정" Value="일정" NavigateUrl="~/Calendar/10월.aspx"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+                <td class="auto-style3">
+                    <asp:Menu ID="Menu3" runat="server" Font-Names="나눔고딕 ExtraBold">
+                        <Items>
+                            <asp:MenuItem Text="뉴스" Value="뉴스" NavigateUrl="~/Media/뉴스.aspx">
+                            </asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+                <td class="auto-style3">
+                    <asp:Menu ID="Menu4" runat="server" Font-Names="나눔고딕 ExtraBold">
+                        <Items>
+                            <asp:MenuItem Text="스토어" Value="스토어" NavigateUrl="~/Store/스토어.aspx"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+                <td class="auto-style3">
+                    <asp:Menu ID="Menu5" runat="server" Font-Names="나눔고딕 ExtraBold">
+                        <Items>
+                            <asp:MenuItem Text="마이페이지" Value="마이페이지" NavigateUrl="~/My Page/마이페이지.aspx">
+                                <asp:MenuItem Text="주문내역" Value="주문내역" NavigateUrl="~/Store/결제완료.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="회원정보수정" Value="회원정보수정" NavigateUrl="~/My Page/회원정보수정.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="회원탈퇴" Value="회원탈퇴" NavigateUrl="~/My Page/탈퇴.aspx"></asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" style="background-color: #FFFFDF" class="auto-style4">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
