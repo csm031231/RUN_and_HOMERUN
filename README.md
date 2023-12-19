@@ -22,7 +22,7 @@
 
 |결제창|결제완료창|
 |:---:|:---:|
-|(./image/결제창.png)|(./image/결제완료.png)|
+|(./image/결제창.png)|![https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/%EA%B2%B0%EC%A0%9C%EC%99%84%EB%A3%8C.png]|
 
 #### ✨결제 내역에 결제 완료 창을 띄운다.(xml사용)
 
