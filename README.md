@@ -35,7 +35,7 @@
 
 |회원정보 수정 페이지|회원탈퇴 페이지|
 |:---:|:---:|
-|<img width="350" height="450" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/회원 정보 수정 페이지.png"/>|<img width="350" height="400" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/회원탈퇴 페이지.png"/>|
+|<img width="350" height="400" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/회원 정보 수정 페이지.png"/>|<img width="350" height="400" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/회원탈퇴 페이지.png"/>|
 
 #### ✨주요 코드
 
