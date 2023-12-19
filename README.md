@@ -10,32 +10,33 @@
 
 |메인 페이지|선수정보 페이지|
 |:---:|:---:|
-|(./image/홈 화면.png)|(./image/선수정보 페이지.png)|
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/홈화면.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/선수정보 페이지.png"/>|
 
 |구단 정보 페이지|구단 정보|
 |:---:|:---:|
-|(./image/구단정보 페이지.png)|(./image/구단정보2.png)|
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/구단정보 페이지.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/구단정보2.png"/>|
 
 |뉴스|스토어|
 |:---:|:---:|
-|(./image/뉴스 페이지.png)|(./image/스토어.png)|
-
-|결제창|결제완료창|
-|:---:|:---:|
-|(./image/결제창.png)|![https://github.com/csm031231/RUN_and_HOMERUN/blob/eed90ba4545a558aa115d836e18a419b033d65bc/image/%EA%B2%B0%EC%A0%9C%EC%99%84%EB%A3%8C.png]|
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/뉴스 페이지.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/스토어.png"/>|
 
 #### ✨결제 내역에 결제 완료 창을 띄운다.(xml사용)
 
+|결제창|결제완료창|
+|:---:|:---:|
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/결제창.png"/>| <img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/결제완료.png"/>  |
+
+
 |마이페이지|주문내역 페이지|
 |:---:|:---:|
-|(./image/마이페이지.png)|(./image/회원 정보 수정 페이지.png)|
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/마이페이지.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/결제완료.png"/>|
+
+#### ✨validator로 필수 항목을 쓰지 않았거나 조건에 맞지 않게 썼을 때 조건문을 띄워준다.
 
 |회원정보 수정 페이지|회원탈퇴 페이지|
 |:---:|:---:|
-|(./image/회원 정보 수정 페이지.png)|(./image/회원탈퇴 페이지.png)|
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/회원 정보 수정 페이지.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/회원탈퇴 페이지.png"/>|
 
 |회원가입 페이지|로그인 페이지|
 |:---:|:---:|
-|(./image/회원가입 페이지.png)|(./image/로그인 페이지.png)|
-
-#### ✨validator로 필수 항목을 쓰지 않았거나 조건에 맞지 않게 썼을 때 조건문을 띄워준다.
+|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/회원가입 페이지.png"/>|<img width="329" src="https://github.com/csm031231/RUN_and_HOMERUN/blob/main/image/로그인 페이지.png"/>|
